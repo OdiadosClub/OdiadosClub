@@ -33,7 +33,7 @@ export const menuData: Product[] = [
     {
         id: '4',
         name: 'Cancelada',
-        description: 'Carne, cheddar, salsa envidia, bacon.',
+        description: 'Carne, cheddar x4, salsa envidia.',
         price: 12000,
         category: 'blacklist'
     }
